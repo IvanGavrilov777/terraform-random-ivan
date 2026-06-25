@@ -1,4 +1,4 @@
-resource "random_pet" "ivan" {
+resource "random_pet" "petya" {
 count = 5
 }
 
